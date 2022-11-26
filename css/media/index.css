@@ -10,11 +10,16 @@
     .auto img{
         left:10000px;
     }
+   .produce{
+        margin-top:30px;
+    }
     .free{
-        min-width:80%;
+        margin:20px auto;
+        min-width:90%;
     }
     .login{
-        min-width:80%;
+        margin:20px auto;
+        min-width:90%;
     }
     .function{
         flex-direction: column;
